@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="android.widget.SearchView"
+        />
+
+    <item android:id="@+id/view_products"
+        android:title="View Products"
+        android:icon="@android:drawable/ic_menu_view"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/edit_product"
+        android:title="Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/delete_product"
+        android:title="Delete"
+        android:visible="false"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/view_services"
+        android:title="View Services"
+        android:icon="@android:drawable/ic_menu_view"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/edit_service"
+        android:title="Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/delete_service"
+        android:title="Delete"
+        android:visible="false"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/edit_post"
+        android:title="Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/delete_post"
+        android:title="Delete"
+        android:visible="false"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="collapseActionView" />
+
+</menu>

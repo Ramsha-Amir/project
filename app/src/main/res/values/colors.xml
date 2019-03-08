@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <!--MY COLORS -->
+    <color name="action_bar_color">#FF4500</color>
+    <color name="white_color">#ffffff</color>
+    <color name="black_color">#000000</color>
+    <color name="yellow_color">#ff6200</color>
+    <color name="blue_color">#0059ff</color>
+</resources>

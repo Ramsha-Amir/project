@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">OXP</string>
+
+    <string name="loading">Please wait Loading…</string>
+    <string name="new_product">New</string>
+
+    <string-array name="city">
+        <item>Lahore</item>
+        <item>Bahawalpur</item>
+        <item>Faisalabad</item>
+        <item>Gujranwala</item>
+        <item>Gujrat</item>
+        <item>Jhang</item>
+        <item>Multan</item>
+        <item>Rawalpindi</item>
+        <item>Sargodha</item>
+        <item>Sahiwal</item>
+        <item>Sheikhupura</item>
+        <item>Sialkot</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Clothes</item>
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Sport</item>
+        <item>Music</item>
+        <item>Books</item>
+        <item>Animals</item>
+        <item>Vehicles</item>
+        <item>Home Appliances</item>
+        <item>Mobiles</item>
+        <item>Shoes</item>
+        <item>Fashion</item>
+        <item>Cosmetics</item>
+        <item>Accessories</item>
+        <item>Auto</item>
+    </string-array>
+
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="title_ads">Ads</string>
+    <string name="title_discussion_forum">Discussion Forum</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_Account">Account</string>
+    <string name="title_add">Add</string>
+    <string name="title_home">Home</string>
+</resources>
